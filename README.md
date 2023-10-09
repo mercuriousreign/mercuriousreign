@@ -20,7 +20,7 @@ I am a full stack web developer who previously specialized in video game and Uni
 
 🖥️  See my portfolio at [Perceptiveus.com](http://zaima.perceptiveus.com/)\*
 
-🧠  I'm learning PHP\*
+🧠  I'm learning Angular\*
 
 ### Skills
 
